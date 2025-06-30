@@ -20,11 +20,11 @@ This is a full-featured **mobile commerce app** for buying and selling gadgets. 
 | Layer            | Tech Used                             |
 |------------------|----------------------------------------|
 | **Frontend (App)** | React Native (Expo) + TypeScript      |
-| **Admin Panel**   | Next.js (App Router) + TypeScript     |
+| **Admin Panel**   | Next.js + TypeScript     |
 | **State Management** | Zustand                           |
 | **Backend as a Service** | Supabase (Auth, Database, Realtime) |
 | **Payments**      | Stripe                                |
-| **Notifications** | Supabase Realtime / WebSockets        |
+| **Notifications** | Supabase Realtime |
 
 ---
 
